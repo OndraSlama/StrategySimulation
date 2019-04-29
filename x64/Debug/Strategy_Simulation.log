@@ -1,0 +1,13 @@
+﻿  main.cpp
+c:\onedrive\dokumenty\projekty\c++\strategy_simlation\constants.h(14): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\onedrive\dokumenty\projekty\c++\strategy_simlation\main.cpp(104): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+c:\onedrive\dokumenty\projekty\c++\strategy_simlation\main.cpp(105): warning C4244: '=': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Strategy_Simulation.vcxproj -> C:\OneDrive\Dokumenty\Projekty\C++\Strategy_simlation\x64\Debug\Strategy_Simulation.exe

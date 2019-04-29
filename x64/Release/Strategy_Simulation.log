@@ -1,0 +1,68 @@
+﻿  Strategy_Simulation.cpp
+Box2D.lib(b2PolygonShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2PolygonShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2PolygonShape.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+Box2D.lib(b2Body.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2Body.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2World.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2World.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2Fixture.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2Fixture.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2BroadPhase.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2BroadPhase.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2ContactManager.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2ContactManager.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2Island.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2Island.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2Joint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2Joint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2PulleyJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2PulleyJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2Contact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2Contact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2WorldCallbacks.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2WorldCallbacks.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2ContactSolver.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2ContactSolver.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2DistanceJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2DistanceJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2WheelJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2WheelJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2MouseJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2MouseJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2RevoluteJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2RevoluteJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2PrismaticJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2PrismaticJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2GearJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2GearJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2WeldJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2WeldJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2FrictionJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2FrictionJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2RopeJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2RopeJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2MotorJoint.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2MotorJoint.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2CircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2CircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2PolygonAndCircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2PolygonAndCircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2PolygonContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2PolygonContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2EdgeAndCircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2EdgeAndCircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2EdgeAndPolygonContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2EdgeAndPolygonContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2ChainAndCircleContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2ChainAndCircleContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2ChainAndPolygonContact.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2ChainAndPolygonContact.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2ChainShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2ChainShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+Box2D.lib(b2EdgeShape.obj) : error LNK2038: mismatch detected for '_ITERATOR_DEBUG_LEVEL': value '2' doesn't match value '0' in Strategy_Simulation.obj
+Box2D.lib(b2EdgeShape.obj) : error LNK2038: mismatch detected for 'RuntimeLibrary': value 'MDd_DynamicDebug' doesn't match value 'MD_DynamicRelease' in Strategy_Simulation.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflicts with use of other libs; use /NODEFAULTLIB:library
+Box2D.lib(b2ContactManager.obj) : error LNK2001: unresolved external symbol __imp__invalid_parameter
+Box2D.lib(b2ContactManager.obj) : error LNK2001: unresolved external symbol __imp__CrtDbgReport
+C:\OneDrive\Dokumenty\Projekty\C++\Strategy_Simulation\x64\Release\Strategy_Simulation.exe : fatal error LNK1120: 2 unresolved externals
